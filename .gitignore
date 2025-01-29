@@ -1,5 +1,6 @@
 # folders
 export/
+.haxelib/
 
 # files
 .DS_Store
